@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+seaborn
+networkx
+annoy
+tensorflow
+scipy
+scikit-image
+openpyxl
